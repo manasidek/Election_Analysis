@@ -10,21 +10,22 @@
 - The total number of votes casted in this congressional election in the precinct are **369,711**
 - The number of votes for each county in the precinct are as follows:
 
-	    **County Votes:**
-	1.Jefferson: 10.5% (38,855)
+**County Votes:**
 
-	2.Denver: 82.8% (306,055)
+1. Jefferson: 10.5% (38,855)
 
-	3.Arapahoe: 6.7% (24,801)
+2. Denver: 82.8% (306,055)
+
+3. Arapahoe: 6.7% (24,801)
 
 - The largest number of votes casted are in **Denver** county.
 - The number of votes each candidate received are as follows:
 
-	1.Charles Casper Stockham: 23.0% (85,213)
+	1. Charles Casper Stockham: 23.0% (85,213)
 
-	2.Diana DeGette: 73.8% (272,892)
+	2. Diana DeGette: 73.8% (272,892)
 
-	3.Raymon Anthony Doane: 3.1% (11,606)
+	3. Raymon Anthony Doane: 3.1% (11,606)
 
 - The candidate who won the election is **Diana DeGette**
 - The **Winning Vote Count** is **272,892**
