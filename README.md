@@ -62,9 +62,8 @@ These modifications are explained below:
 ```
 file_to_load = os.path.join("Resources", "election_results.csv")
 ```
-
 - Data Format: The current data has 'Ballot ID', 'County Name' and 'Candidate Name' in that order. If this differs in the data for the new election, the script will need to be modified.
-![Data_Format]()
+![Data_Format](https://github.com/manasidek/Election_Analysis/blob/main/Current_data_format.png)
 ```
  # Get the candidate name from each row.
        candidate_name = row[2]
