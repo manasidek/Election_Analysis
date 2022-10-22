@@ -64,5 +64,12 @@ file_to_load = os.path.join("Resources", "election_results.csv")
 ```
 
 - Data Format: The current data has 'Ballot ID', 'County Name' and 'Candidate Name' in that order. If this differs in the data for the new election, the script will need to be modified.
-![Data_Format]
+![Data_Format]()
+```
+ # Get the candidate name from each row.
+        candidate_name = row[2]
+
+        # 3: Extract the county name from each row.
+        county_name = row[1]
+```
 
