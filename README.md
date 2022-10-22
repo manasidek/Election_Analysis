@@ -55,7 +55,7 @@ The Terminal Output:
 
 The script can be used to obtain the above election results for any other election, as it reads candidate and county names dynamically from the data and aggregates the vote counts accordingly. There will be minor modifications required in case the data for the other elections is in a different file location or format compared to the current. 
 
-The script for the analysis [Pypoll_challenge](https://github.com/manasidek/Election_Analysis/blob/main/Pypoll_Challenge.py)
+The script for the analysis: [Pypoll_challenge](https://github.com/manasidek/Election_Analysis/blob/main/Pypoll_Challenge.py)
 
 These modifications are explained below:
 - File Name and File Path: The file name and path in the code snippet below will need to be updated to reflect the file name and path of the new election that needs to be analyzed.
@@ -63,6 +63,7 @@ These modifications are explained below:
 file_to_load = os.path.join("Resources", "election_results.csv")
 ```
 - Data Format: The current data has 'Ballot ID', 'County Name' and 'Candidate Name' in that order. If this differs in the data for the new election, the script will need to be modified.
+
 ![Data_Format](https://github.com/manasidek/Election_Analysis/blob/main/Current_data_format.png)
 ```
  # Get the candidate name from each row.
