@@ -12,10 +12,12 @@
 ## Election-Audit Results
 The Election Result are referenced in this file [Election_Analysis](https://github.com/manasidek/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
-The Text file output
+The Text file output:
+
 ![ElectionAnalysisResults](https://github.com/manasidek/Election_Analysis/blob/main/ElectionAnalysisResults.png)
 
-The Terminal Output
+The Terminal Output:
+
 ![Terminal_output](https://github.com/manasidek/Election_Analysis/blob/main/TerminalOutput.png)
 
 ### The Analysis of the Election Show that:
