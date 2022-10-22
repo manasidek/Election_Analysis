@@ -18,7 +18,7 @@
 
 3. Arapahoe: 6.7% (24,801)
 
-- The largest number of votes casted are in **Denver** county.
+- The largest number of votes casted are in ***DENVER*** county.
 - The number of votes each candidate received are as follows:
 
 | 	Candidate Name     | Vote Percentage |  Votes  |
@@ -35,9 +35,9 @@
 
 	3. Raymon Anthony Doane: 3.1% (11,606)
 
-- The candidate who won the election is **Diana DeGette**
-- The **Winning Vote Count** is **272,892**
-- The **Winning Percentage** is **73.8%**
+- The candidate who won the election is ***DIANA DEGETTE***
+- The **Winning Vote Count** is ***272,892***
+- The **Winning Percentage** is ***73.8%***
 
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
