@@ -67,9 +67,9 @@ file_to_load = os.path.join("Resources", "election_results.csv")
 ![Data_Format]()
 ```
  # Get the candidate name from each row.
-        candidate_name = row[2]
+       candidate_name = row[2]
 
-        # 3: Extract the county name from each row.
-        county_name = row[1]
+ # 3: Extract the county name from each row.
+       county_name = row[1]
 ```
 
