@@ -12,9 +12,9 @@
 ## Election-Audit Results
 The Election Result are referenced in this file [Election_Analysis](https://github.com/manasidek/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
-The Text file output [ElectionAnalysisResults](https://github.com/manasidek/Election_Analysis/blob/main/ElectionAnalysisResults.png)
+The Text file output ![ElectionAnalysisResults](https://github.com/manasidek/Election_Analysis/blob/main/ElectionAnalysisResults.png)
 
-The Terminal Output [Termianl_output](https://github.com/manasidek/Election_Analysis/blob/main/TerminalOutput.png)
+The Terminal Output ![Terminal_output](https://github.com/manasidek/Election_Analysis/blob/main/TerminalOutput.png)
 
 ### The Analysis of the Election Show that:
 - The total number of votes casted in this congressional election in the precinct are **369,711**
