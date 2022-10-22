@@ -6,7 +6,8 @@
 - The purpose of the analysis is to help a Board of Elections Employee to provide the audit of a recent local congressional election to the election commission.
 
 ## Resources
-- Data Source: [Election Results]()
+- Data Source: [Election Results](https://github.com/manasidek/Election_Analysis/blob/main/Resources/election_results.csv)
+- Software: Python 3.7.6, Visual Studio Code 1.72.2
 
 ## Election-Audit Results
 ### The Analysis of the Election Show that:
