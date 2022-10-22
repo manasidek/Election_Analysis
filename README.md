@@ -21,6 +21,14 @@
 - The largest number of votes casted are in **Denver** county.
 - The number of votes each candidate received are as follows:
 
+| 	Candidate Name     | Vote Percentage |  Votes  |
+|--------------------------|-----------------|---------|
+| Charles Casper Stockham  |      23.0%      | 85,213  |
+| Diana DeGette            |      73.8%      | 272,892 |
+| Raymon Anthony Doane     |      3.1%       | 11,606  |
+
+
+
 	1. Charles Casper Stockham: 23.0% (85,213)
 
 	2. Diana DeGette: 73.8% (272,892)
