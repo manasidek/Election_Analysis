@@ -59,6 +59,10 @@ The script for the analysis [Pypoll_challenge](https://github.com/manasidek/Elec
 
 These modifications are explained below:
 - File Name and File Path: The file name and path in the code snippet below will need to be updated to reflect the file name and path of the new election that needs to be analyzed.
+```
+file_to_load = os.path.join("Resources", "election_results.csv")
+```
+
 - Data Format: The current data has 'Ballot ID', 'County Name' and 'Candidate Name' in that order. If this differs in the data for the new election, the script will need to be modified.
 ![Data_Format]
 
