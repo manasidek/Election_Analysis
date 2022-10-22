@@ -5,6 +5,9 @@
 ## Purpose of this election audit analysis
 - The purpose of the analysis is to help a Board of Elections Employee to provide the audit of a recent local congressional election to the election commission.
 
+## Resources
+- Data Source: [Election Results]()
+
 ## Election-Audit Results
 ### The Analysis of the Election Show that:
 - The total number of votes casted in this congressional election in the precinct are **369,711**
